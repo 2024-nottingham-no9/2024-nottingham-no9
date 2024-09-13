@@ -1,3 +1,4 @@
+
 <table width="98%">
     <tr> 
       <td colspan="3" ><img src="image/whbf_logo.jpg" width="180" height="70" ><a href="JavaScript:window.open('<? echo $row_Recordset2['map']?>')" ><img src="image/map_bw.jpg" width="57" height="57"></a></td>
